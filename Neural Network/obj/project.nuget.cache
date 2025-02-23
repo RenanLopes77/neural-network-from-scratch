@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y3Y/T0BbUr4=",
+  "success": true,
+  "projectFilePath": "/home/marvin/Documents/Projects/neural-network-from-scratch/Neural Network/Neural Network.csproj",
+  "expectedPackageFiles": [
+    "/home/marvin/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.2/microsoft.aspnetcore.app.ref.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
